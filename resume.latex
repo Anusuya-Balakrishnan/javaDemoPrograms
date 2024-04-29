@@ -1,0 +1,64 @@
+documentclass{article}
+usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
+usepackage{hyperref}
+
+title{Anusuya Balakrishnan's Resume}
+author{}
+date{}
+
+begin{document}
+maketitle
+
+section{Contact Information}
+Anusuya Balakrishnan 
+[Your Address] 
+[Your City, State, Zip] 
+Email [Your Email] 
+Phone [Your Phone Number]
+
+section{Summary}
+Dedicated and skilled software developer and trainer with extensive experience in Java, Python, C, C++, ReactJS, Django framework, MongoDB, Selenium, TestNG framework, and Cucumber framework. Proven track record of successfully developing web applications and providing training. Proficient in manual testing and experienced in mobile application testing.
+
+section{Education}
+textbf{Bachelor of Technology (B.Tech)} 
+[Your University], [Year of Graduation] 
+[Your MajorField of Study]
+
+section{Work Experience}
+textbf{Developer and Software Trainer}, Ocean Academy 
+[Date Started] - Present 
+- Developed and maintained web applications using ReactJS and Django framework 
+- Created Thiru's IAS Academy website using ReactJS 
+- Developed MCQ Website for Ocean Academy using ReactJS and Django REST framework 
+- Proficient in MongoDB, Selenium, TestNG framework, and Cucumber framework 
+- Completed a project using Selenium for [Project Description] 
+- Worked as a manual tester for the Smoke Free Mind App (mobile application) 
+- Consistently contribute Python tutorial videos on YouTube
+
+section{Technical Skills}
+begin{itemize}
+    item Java
+    item Python
+    item C, C++
+    item ReactJS
+    item Django framework
+    item MongoDB
+    item Selenium
+    item TestNG framework
+    item Cucumber framework
+end{itemize}
+
+section{Projects}
+begin{itemize}
+    item Thiru's IAS Academy website (ReactJS)
+    item MCQ Website for Ocean Academy (ReactJS, Django REST framework)
+    item [Project Name] - [Description]
+end{itemize}
+
+section{Certifications}
+[Certification Name] - [Year]
+
+section{References}
+Available upon request.
+
+end{document}

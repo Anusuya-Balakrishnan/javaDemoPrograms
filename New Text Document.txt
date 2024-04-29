@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anusuya Balakrishnan's Resume</title>
+</head>
+<body>
+    <h1>Anusuya Balakrishnan's Resume</h1>
+
+    <h2>Contact Information</h2>
+    <p>Anusuya Balakrishnan <br>
+    [Your Address] <br>
+    [Your City, State, Zip] <br>
+    Email: [Your Email] <br>
+    Phone: [Your Phone Number]</p>
+
+    <h2>Summary</h2>
+    <p>Dedicated and skilled software developer and trainer with extensive experience in Java, Python, C, C++, ReactJS, Django framework, MongoDB, Selenium, TestNG framework, and Cucumber framework. Proven track record of successfully developing web applications and providing training. Proficient in manual testing and experienced in mobile application testing.</p>
+
+    <h2>Education</h2>
+    <p><strong>Bachelor of Technology (B.Tech)</strong> <br>
+    [Your University], [Year of Graduation] <br>
+    [Your Major/Field of Study]</p>
+
+    <h2>Work Experience</h2>
+    <p><strong>Developer and Software Trainer</strong>, Ocean Academy <br>
+    [Date Started] - Present <br>
+    - Developed and maintained web applications using ReactJS and Django framework <br>
+    - Created Thiru's IAS Academy website using ReactJS <br>
+    - Developed MCQ Website for Ocean Academy using ReactJS and Django REST framework <br>
+    - Proficient in MongoDB, Selenium, TestNG framework, and Cucumber framework <br>
+    - Completed a project using Selenium for [Project Description] <br>
+    - Worked as a manual tester for the Smoke Free Mind App (mobile application) <br>
+    - Consistently contribute Python tutorial videos on YouTube</p>
+
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>Java</li>
+        <li>Python</li>
+        <li>C, C++</li>
+        <li>ReactJS</li>
+        <li>Django framework</li>
+        <li>MongoDB</li>
+        <li>Selenium</li>
+        <li>TestNG framework</li>
+        <li>Cucumber framework</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Thiru's IAS Academy website (ReactJS)</li>
+        <li>MCQ Website for Ocean Academy (ReactJS, Django REST framework)</li>
+        <li>[Project Name] - [Description]</li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <p>[Certification Name] - [Year]</p>
+
+    <h2>References</h2>
+    <p>Available upon request.</p>
+</body>
+</html>

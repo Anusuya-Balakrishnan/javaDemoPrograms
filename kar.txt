@@ -1,0 +1,49 @@
+
+
+
+
+1. print your name 10 times using SOP
+
+
+aaaaaa
+aaaaaa
+aaaaaa
+aaaaaa
+aaaaaa
+aaaaaa
+aaaaaa
+aaaaaa
+aaaaaa
+aaaaaa
+
+
+- class 
+- main 
+- sop
+
+
+2. same program with some escape characters
+
+aaaaa aaaaa aaaaa aaaaa aaaaa 
+aaaaa aaaaa aaaaa aaaaa aaaaa 
+aaaaa aaaaa aaaaa aaaaa aaaaa 
+aaaaa aaaaa aaaaa aaaaa aaaaa 
+aaaaa aaaaa aaaaa aaaaa aaaaa 
+
+1 + 
+\t
+
+3. do the above in single sop
+
+\n
+\t
+
+4. print the below statement
+
+He said, "He is doing good!"
+
+\"
+
+
+
+
